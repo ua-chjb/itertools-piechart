@@ -12,3 +12,14 @@ In this context, program looks into several features of a house, such as "House 
 This dashboard visualizes these results.
 
 https://itertools-v1.ue.r.appspot.com/
+
+Some sample visuals to help illustrate the goal:
+
+![newplot (94)](https://github.com/user-attachments/assets/e4160ac8-0fe7-4118-b10c-c3ede8abb633)
+![newplot (95)](https://github.com/user-attachments/assets/887758b7-f19c-4a41-912b-4b48728e51ac)
+![newplot (97)](https://github.com/user-attachments/assets/974c17f6-9da0-4ad3-836e-ce1bfa265d10)
+![newplot (96)](https://github.com/user-attachments/assets/13b6ed27-b7c3-436d-a1ff-509568ef752a)
+
+![newplot (98)](https://github.com/user-attachments/assets/675993d0-884e-4330-bc13-75068d735b7f)
+
+
