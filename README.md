@@ -9,9 +9,7 @@ In this context, program looks into several features of a house, such as "House 
 - purity of subsample: 98.3%
 - sample size of subsample: 59 (2.28% of data)
 
-This dashboard visualizes these results.
-
-https://itertools-v1.ue.r.appspot.com/
+This dashboard visualizes these results. https://itertools-v1.ue.r.appspot.com/
 
 Some sample visuals to help illustrate the goal:
 
