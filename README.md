@@ -12,8 +12,8 @@ The following is a resulting subsegment that achieved 98% purity with the target
   -   rent["ClassSc_S"] == "1-STORY 1946 & NEWER ALL STYLES" 
   -   rent["MasVnrType"] == "BrkFace"
   -   rent["GarageType"] == "Attchd"
-- purity of subsample: 98.3%
-- sample size of subsample: 59 (2.28% of data)
+- purity of subsample: 100.00%
+- sample size of subsample: 51 (1.98% of data)
 
 This dashboard visualizes these results. https://itertools-v1.ue.r.appspot.com/
 
