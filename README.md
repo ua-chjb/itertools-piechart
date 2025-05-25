@@ -8,8 +8,8 @@ The following is a resulting subsegment that achieved 98% purity with the target
 - purity of overall datasat: 28.4%
 - sample size of overall data: 2580
 - mask:
-  -   rent["ZngCdPr"] == "FS-RL" ) | rent["ZngCdPr"] == "F-VR" &
-  -   rent["ClassSc_S"] == "1-STORY 1946 & NEWER ALL STYLES" ) | rent["ClassSc_S"] == "2-STORY 1946 & NEWER"
+  -   rent["ZngCdPr"] == "FS-RL" ) | rent["ZngCdPr"] == "F-VR"
+  -   rent["ClassSc_S"] == "1-STORY 1946 & NEWER ALL STYLES" 
   -   rent["MasVnrType"] == "BrkFace"
   -   rent["GarageType"] == "Attchd"
 - purity of subsample: 98.3%
