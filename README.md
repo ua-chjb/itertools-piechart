@@ -6,14 +6,14 @@ There are several ways to use the above program to analyze a set of data. In thi
 
 The following is a resulting subsegment that achieved 98% purity with the target variable:
 - purity of overall datasat: 28.4%
+- purity of subsample: 100.00%
 - sample size of overall data: 2580
+- sample size of subsample: 51 (1.98% of data)
 - mask:
   -   rent["ZngCdPr"] == "FS-RL" ) | rent["ZngCdPr"] == "F-VR"
   -   rent["ClassSc_S"] == "1-STORY 1946 & NEWER ALL STYLES" 
   -   rent["MasVnrType"] == "BrkFace"
   -   rent["GarageType"] == "Attchd"
-- purity of subsample: 100.00%
-- sample size of subsample: 51 (1.98% of data)
 
 This dashboard visualizes these results. https://itertools-v1.ue.r.appspot.com/
 
