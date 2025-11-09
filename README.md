@@ -15,7 +15,7 @@ The following is a resulting subsegment that achieved 98% purity with the target
   -   rent["MasVnrType"] == "BrkFace"
   -   rent["GarageType"] == "Attchd"
 
-This dashboard visualizes these results. https://itertools-v1.ue.r.appspot.com/
+This dashboard visualizes these results.
 
 Some sample visuals to help illustrate the goal of this program:
 
